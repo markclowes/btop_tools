@@ -1,3 +1,7 @@
+# Unmaintained repo
+
+I no longer have access to a BT One Phone account to use or test this with, so this repo is archived.
+
 # btop_tools
 
 Tools to interact with BT One Phone vPBX. **If you do not have a BT OnePhone account** this is (probably) of **no use to you**. Accounts are only available to UK businesses.
